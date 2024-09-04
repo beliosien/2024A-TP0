@@ -50,7 +50,7 @@ Afin de débuter, il faut s'assurer d'avoir installé [Git](https://git-scm.com/
 ### Git clone
 Habituellement, tout commence par cloner un répertoire disponible en ligne sur GitHub. Vous pouvez cliquer sur le rectangle vert intitulé '<>Code' puis rendez-vous sur le terminal où vous écrirez la commande suivant:
 ```bash
-    git clone https://github.com/exemple-de-lien/2023H-TP0.git
+    git clone https://github.com/exemple-de-lien/2024A-TP0.git
 ```
 ### Git add
 Cette commande permet d'ajouter un fichier que vous voulez répertorier les changements que vous y apportez. C'est la première étape à faire après avoir fait un changement à un fichier quelconque:
